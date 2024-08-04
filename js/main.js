@@ -55,7 +55,7 @@ async function exportToPDF() {
   }
 
   // Сохраняем PDF документ
-  pdf.save('document.pdf');
+  pdf.save('cv_sharifullina.pdf');
 }
 
 // Привязываем функцию к кнопке
