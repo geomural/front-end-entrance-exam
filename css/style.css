@@ -157,7 +157,7 @@ h3 {
 .tool-card {
   background-color: #fff;
   border-radius: 6px;
-  padding: 16px 4px 16px 4px;
+  padding: 16px 4px 6px 4px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
